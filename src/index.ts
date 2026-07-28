@@ -327,3 +327,5 @@ function expand_(
 
   return acc
 }
+
+export default expand;
